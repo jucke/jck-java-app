@@ -1,5 +1,5 @@
 {
-	name: "jck sample project",
+	"name": "jck sample project",
 	"packaging": {
 		"status_page": "/status",
 		"application_port": "8080",
