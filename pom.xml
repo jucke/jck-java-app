@@ -9,7 +9,7 @@
 	<description>A Java service for the Cloud platform</description>
 
 	<properties>
-		<java.version>1.6</java.version>
+		<java.version>1.7</java.version>
 		<spring.version>3.2.3.RELEASE</spring.version>
 	</properties>
 
